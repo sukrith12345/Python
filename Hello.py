@@ -1,2 +1,4 @@
 a=10
-python (type (a))
+b=20
+print (type (a))
+print (type (b))
