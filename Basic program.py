@@ -1,3 +1,4 @@
+
 name=input()
 score=int(input())
 department=input()
